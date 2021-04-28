@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "김예슬"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/아바타.jpg"
   bio              : "**HAFS** natural science 16th"
   location         : "대한민국, 서울"
   email            : "ashley200405@naver.com"
