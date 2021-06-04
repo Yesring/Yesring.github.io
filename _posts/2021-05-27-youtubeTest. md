@@ -3,7 +3,7 @@ layout: single
 title: "유튜브 동영상 삽입하기"
 toc: true
 toc_sticky: true
-toc label: 플레이리스트
+toc label: "플레이리스트"
 ---
-###1. 디즈니 ost
+### 01. 디즈니 ost
 {% include video id="VQBZZgD3igM" provider="youtube" %}
